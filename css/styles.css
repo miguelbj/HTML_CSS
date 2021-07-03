@@ -1,0 +1,17 @@
+.main_heading{
+    text-align: center;
+    color: white;
+    background-image: url("vertical-farming-banner.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: auto;
+
+}
+header{
+    background-color: #ee5353;
+}
+
+.content{
+    background-color: rgb(207, 207, 207);
+    color: rgb(87, 26, 26);
+}
+
